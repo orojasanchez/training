@@ -6,4 +6,4 @@
  * and open the template in the editor.
  */
 
-echo "hola mundo";
+echo "este es un cambio";
